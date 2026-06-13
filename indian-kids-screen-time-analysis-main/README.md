@@ -40,11 +40,4 @@
 
 ---
 
-## 🚀 How to Run the Project  
-```bash
-
-git clone https://github.com/Kamal5904/indian-kids-screen-time-analysis.git
-cd indian-kids-screen-time-analysis
-pip install -r requirements.txt
-jupyter notebook "Indian kids screentime analysis.ipynb"
 
